@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "basicorigins:elf",
-    "basicorigins:goliath"
+    "basicorigins:goliath",
+    "basicorigins:dwarf"
   ]
 }

@@ -1,0 +1,10 @@
+{
+    "powers": [
+        "#basicorigins:dwarf"
+    ],
+    "icon": {
+        "id": "minecraft:stone_pickaxe"
+    },
+    "order": 4,
+    "impact": 1
+}

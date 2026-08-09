@@ -3,5 +3,8 @@
   "origin.basicorigins.elf.description": "Species with long ears",
 
   "origin.basicorigins.goliath.name": "Goliath",
-  "origin.basicorigins.goliath.description": "They are tall"
+  "origin.basicorigins.goliath.description": "They are tall",
+
+  "origin.basicorigins.dwarf.name": "Dwarf",
+  "origin.basicorigins.dwarf.description": "They are small and strong and love rocks"
 }
