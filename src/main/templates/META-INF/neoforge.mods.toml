@@ -51,5 +51,11 @@ This add the elf, dwarf, goliath and goblin origin. And maybe more in the future
     ordering="NONE"
     side="BOTH"
 
+[[dependencies.${mod_id}]]
+    modId="origins"
+    type="required"
+    ordering="AFTER"
+    side="BOTH"
+
 #[features.${mod_id}]
 #openGLVersion="[3.2,)"
