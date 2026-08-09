@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "#basicorigins:goliath"
+  ],
+  "icon": {
+    "id": "minecraft:stone_sword"
+  },
+  "order": 4,
+  "impact": 1
+}

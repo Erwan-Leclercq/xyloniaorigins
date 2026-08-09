@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "basicorigins:elf"
+    "basicorigins:elf",
+    "basicorigins:goliath"
   ]
 }

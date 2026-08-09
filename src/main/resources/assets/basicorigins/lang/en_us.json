@@ -1,4 +1,7 @@
 {
   "origin.basicorigins.elf.name": "Elf",
-  "origin.basicorigins.elf.description": "Species with long ears"
+  "origin.basicorigins.elf.description": "Species with long ears",
+
+  "origin.basicorigins.goliath.name": "Goliath",
+  "origin.basicorigins.goliath.description": "They are tall"
 }
