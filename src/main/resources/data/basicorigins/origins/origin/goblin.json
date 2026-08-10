@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "#basicorigins:goblin"
+  ],
+  "icon": {
+    "id": "minecraft:stick"
+  },
+  "order": 4,
+  "impact": 1
+}

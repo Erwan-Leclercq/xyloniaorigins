@@ -6,5 +6,8 @@
   "origin.basicorigins.goliath.description": "They are tall",
 
   "origin.basicorigins.dwarf.name": "Dwarf",
-  "origin.basicorigins.dwarf.description": "They are small and strong and love rocks"
+  "origin.basicorigins.dwarf.description": "They are small and strong and love rocks",
+  
+  "origin.basicorigins.goblin.name": "Goblin",
+  "origin.basicorigins.goblin.description": "Small and vicious"
 }
