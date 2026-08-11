@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "basicorigins:tall"
+    "basicorigins:tall",
+    "basicorigins:projectile_upgrade"
   ]
 }
