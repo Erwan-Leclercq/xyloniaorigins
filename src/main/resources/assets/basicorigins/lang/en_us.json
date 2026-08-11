@@ -9,6 +9,8 @@
   "origin.basicorigins.dwarf.description": "They are small and strong and love rocks",
   
   "origin.basicorigins.goblin.name": "Goblin",
-  "origin.basicorigins.goblin.description": "Small and vicious"
+  "origin.basicorigins.goblin.description": "Small and vicious",
 
+  "power.basicorigins.tall.name": "Tall",
+  "power.basicorigins.tall.description": "This species is tall"
 }
