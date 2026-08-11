@@ -15,5 +15,8 @@
   "power.basicorigins.tall.description": "This species is tall",
 
   "power.basicorigins.small.name": "Small",
-  "power.basicorigins.small.description": "This species is small"
+  "power.basicorigins.small.description": "This species is small",
+  
+  "power.basicorigins.smaller.name": "Smaller",
+  "power.basicorigins.smaller.description": "This species is smaller"
 }
