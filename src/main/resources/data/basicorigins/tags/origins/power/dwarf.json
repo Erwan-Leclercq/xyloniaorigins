@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "basicorigins:small"
+    "basicorigins:small",
+    "basicorigins:mining_expertise"
   ]
 }

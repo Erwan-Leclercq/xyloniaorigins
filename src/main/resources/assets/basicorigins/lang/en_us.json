@@ -24,5 +24,8 @@
   "power.basicorigins.smaller.description": "This species is smaller",
 
   "power.basicorigins.projectile_upgrade.name": "Powerfull bow",
-  "power.basicorigins.projectile_upgrade.description": "The damage of distance weapon are increased"
+  "power.basicorigins.projectile_upgrade.description": "The damage of distance weapon are increased",
+  
+  "power.basicorigins.mining_expertise.name": "Mining expertise",
+  "power.basicorigins.mining_expertise.description": "You're knowledge in mining let you mine faster"
 }
