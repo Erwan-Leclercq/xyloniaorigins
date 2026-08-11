@@ -12,5 +12,8 @@
   "origin.basicorigins.goblin.description": "Small and vicious",
 
   "power.basicorigins.tall.name": "Tall",
-  "power.basicorigins.tall.description": "This species is tall"
+  "power.basicorigins.tall.description": "This species is tall",
+
+  "power.basicorigins.small.name": "Small",
+  "power.basicorigins.small.description": "This species is small"
 }
