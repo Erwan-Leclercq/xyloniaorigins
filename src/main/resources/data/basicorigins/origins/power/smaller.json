@@ -3,11 +3,7 @@
     "entity_action_gained": [
         {
             "type": "origins:execute_command",
-            "command": "scale set pehkui:height 0.7 @p"
-        },
-        {
-            "type": "origins:execute_command",
-            "command": "scale set pehkui:width 0.7 @p"
+            "command": "scale set pehkui:base 0.6 @p"
         }
     ]
 }

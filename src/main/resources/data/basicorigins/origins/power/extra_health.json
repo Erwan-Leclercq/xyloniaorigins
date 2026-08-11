@@ -1,0 +1,13 @@
+{
+    "type": "origins:action_on_callback",
+    "entity_action_gained": [
+        {
+            "type": "origins:execute_command",
+            "command": "attribute @p generic.max_health base set 28"
+        },
+        {
+            "type": "origins:execute_command",
+            "command": "effect give @p minecraft:instant_health 1 99"
+        }
+    ]
+}

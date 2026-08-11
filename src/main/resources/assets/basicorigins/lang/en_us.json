@@ -30,5 +30,20 @@
   "power.basicorigins.mining_expertise.description": "You're knowledge in mining let you mine faster",
   
   "power.basicorigins.stronger.name": "Stronger",
-  "power.basicorigins.stronger.description": "You're stronger"
+  "power.basicorigins.stronger.description": "You're stronger",
+
+  "power.basicorigins.agility_jump.name": "Jump higher",
+  "power.basicorigins.agility_jump.description": "You're species jump higher",
+
+  "power.basicorigins.agility_speed.name": "Run faster",
+  "power.basicorigins.agility_speed.description": "You're species run faster",
+
+  "power.basicorigins.extra_health.name": "More health",
+  "power.basicorigins.extra_health.description": "You're species have more health",
+
+  "power.basicorigins.less_health.name": "Less health",
+  "power.basicorigins.less_health.description": "You're species have less health",
+  
+  "power.basicorigins.increased_exhaustion.name": "Hunger",
+  "power.basicorigins.increased_exhaustion.description": "You have a bigger appetite"
 }

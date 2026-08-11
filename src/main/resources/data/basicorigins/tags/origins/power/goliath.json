@@ -2,6 +2,8 @@
   "replace": false,
   "values": [
     "basicorigins:taller",
-    "basicorigins:stronger"
+    "basicorigins:stronger",
+    "basicorigins:extra_health",
+    "basicorigins:increased_exhaustion"
   ]
 }
