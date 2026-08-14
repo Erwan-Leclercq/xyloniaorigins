@@ -4,6 +4,7 @@
     "basicorigins:smaller",
     "basicorigins:less_health",
     "basicorigins:agility_speed",
-    "basicorigins:agility_jump"
+    "basicorigins:agility_jump",
+    "basicorigins:reset_scale"
   ]
 }

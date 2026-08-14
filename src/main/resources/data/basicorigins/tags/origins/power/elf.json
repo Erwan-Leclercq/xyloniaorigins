@@ -3,6 +3,7 @@
   "values": [
     "basicorigins:tall",
     "basicorigins:projectile_upgrade",
-    "basicorigins:max_mana"
+    "basicorigins:max_mana",
+    "basicorigins:reset_scale"
   ]
 }
