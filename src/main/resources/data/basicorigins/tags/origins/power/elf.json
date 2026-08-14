@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "basicorigins:tall",
-    "basicorigins:projectile_upgrade"
+    "basicorigins:projectile_upgrade",
+    "basicorigins:max_mana"
   ]
 }

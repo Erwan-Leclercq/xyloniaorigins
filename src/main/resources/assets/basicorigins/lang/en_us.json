@@ -45,5 +45,8 @@
   "power.basicorigins.less_health.description": "You're species have less health",
   
   "power.basicorigins.increased_exhaustion.name": "Hunger",
-  "power.basicorigins.increased_exhaustion.description": "You have a bigger appetite"
+  "power.basicorigins.increased_exhaustion.description": "You have a bigger appetite",
+
+  "power.basicorigins.max_mana.name": "Max mana",
+  "power.basicorigins.max_mana.description": "You have a 2x more mana that basic human"
 }
