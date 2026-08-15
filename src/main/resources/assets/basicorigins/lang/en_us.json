@@ -51,5 +51,8 @@
   "power.basicorigins.max_mana.description": "You have a 2x more mana that basic human",
 
   "power.basicorigins.min_mana.name": "Min mana",
-  "power.basicorigins.min_mana.description": "You have a 2x less mana that basic human"
+  "power.basicorigins.min_mana.description": "You have a 2x less mana that basic human",
+  
+  "power.basicorigins.reset_scale.name": " ",
+  "power.basicorigins.reset_scale.description": " "
 }
