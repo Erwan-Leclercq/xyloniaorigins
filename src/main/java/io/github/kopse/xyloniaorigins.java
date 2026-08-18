@@ -6,12 +6,12 @@ import com.mojang.logging.LogUtils;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 
-@Mod(Basicorigins.MODID)
-public class Basicorigins {
-    public static final String MODID = "basicorigins";
+@Mod(xyloniaorigins.MODID)
+public class xyloniaorigins {
+    public static final String MODID = "xyloniaorigins";
     public static final Logger LOGGER = LogUtils.getLogger();
     
-    public Basicorigins(IEventBus modEventBus) {
+    public xyloniaorigins(IEventBus modEventBus) {
         LOGGER.info("Basicorigins initializing");
     }
 }
