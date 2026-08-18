@@ -3,13 +3,13 @@
   "entity_action_gained": [
     {
       "type": "origins:execute_command",
-      "command": "attribute @p minecraft:generic.jump_strength base set 0.6"
+      "command": "attribute @p minecraft:generic.movement_speed base set 0.07"
     }
   ],
   "entity_action_lost": [
     {
       "type": "origins:execute_command",
-      "command": "attribute @p minecraft:generic.jump_strength base set 0.42"
+      "command": "attribute @p minecraft:generic.movement_speed base set 0.1"
     }
   ]
 }

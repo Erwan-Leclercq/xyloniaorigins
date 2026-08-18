@@ -5,5 +5,11 @@
       "type": "origins:execute_command",
       "command": "attribute @p minecraft:generic.attack_damage base set 2"
     }
+  ],
+  "entity_action_lost": [
+    {
+      "type": "origins:execute_command",
+      "command": "attribute @p minecraft:generic.attack_damage base set 1"
+    }
   ]
 }

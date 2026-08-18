@@ -6,53 +6,56 @@
   "origin.xyloniaorigins.goliath.description": "The goliath are a specie that is not famous for their knowledge in the arcane. Instead they had developed the greatest strenght of all the species that live in this world. This strengh need a lot of energy that they produce by eating exclusly meat",
 
   "origin.xyloniaorigins.dwarf.name": "Dwarf",
-  "origin.xyloniaorigins.dwarf.description": "They are small and strong and love rocks",
+  "origin.xyloniaorigins.dwarf.description": "The dwarf is a litle but still robust specie, they are great worker and mine block faster",
   
   "origin.xyloniaorigins.goblin.name": "Goblin",
-  "origin.xyloniaorigins.goblin.description": "Small and vicious",
+  "origin.xyloniaorigins.goblin.description": "The goblin is weak with 2 hearth less than human and is small, like really small an average goblin measure 1m high so all the world seam really big to a goblin perspective. But this tiny size come with the pro to run faster than any other species and also jump higher.  ",
 
   "power.xyloniaorigins.tall.name": "Tall",
-  "power.xyloniaorigins.tall.description": "This species is tall",
+  "power.xyloniaorigins.tall.description": "Your specie is slightly taller than human",
   
   "power.xyloniaorigins.giant.name": "Giant",
-  "power.xyloniaorigins.giant.description": "This species is Giant, they height are 3 block so 1 meter more than a regular human",
+  "power.xyloniaorigins.giant.description": "Your specie is giant, your height are 3 block tall so 1 meter more than a regular human",
 
   "power.xyloniaorigins.small.name": "Small",
-  "power.xyloniaorigins.small.description": "This species is small",
+  "power.xyloniaorigins.small.description": "Your specie is smaller than a human approximatly one block and half a block tall.",
   
-  "power.xyloniaorigins.smaller.name": "Smaller",
-  "power.xyloniaorigins.smaller.description": "This species is smaller",
+  "power.xyloniaorigins.tiny.name": "Tiny",
+  "power.xyloniaorigins.tiny.description": "Your specie is the smallest specie and measure only one block tall",
 
   "power.xyloniaorigins.projectile_upgrade.name": "Powerfull bows",
   "power.xyloniaorigins.projectile_upgrade.description": "The damage of distance weapon are increased",
   
-  "power.xyloniaorigins.mining_expertise.name": "Mining expertise",
-  "power.xyloniaorigins.mining_expertise.description": "You're knowledge in mining let you mine faster",
+  "power.xyloniaorigins.mining_expertise.name": "Powerfull arms",
+  "power.xyloniaorigins.mining_expertise.description": "You have strong arms that allow you to break block one half faster than a human",
   
   "power.xyloniaorigins.true_strength.name": "True strength",
   "power.xyloniaorigins.true_strength.description": "You are two times stronger than any other species in closed combat",
 
-  "power.xyloniaorigins.agility_jump.name": "Jump higher",
-  "power.xyloniaorigins.agility_jump.description": "You're species jump higher",
+  "power.xyloniaorigins.agility_jump.name": "Lightweight",
+  "power.xyloniaorigins.agility_jump.description": "Your specie is lightweight that let it manage to jump 1 bloc high",
 
   "power.xyloniaorigins.agility_speed.name": "Run faster",
-  "power.xyloniaorigins.agility_speed.description": "You're species run faster",
+  "power.xyloniaorigins.agility_speed.description": "Your specie run two times faster than an ordinary human",
 
   "power.xyloniaorigins.extra_health.name": "More health",
   "power.xyloniaorigins.extra_health.description": "Your specie have 4 more health hearth than a human",
 
   "power.xyloniaorigins.less_health.name": "Less health",
-  "power.xyloniaorigins.less_health.description": "You're species have less health",
+  "power.xyloniaorigins.less_health.description": "Your specie have less health than other, two hearth less than human",
   
   "power.xyloniaorigins.increased_exhaustion.name": "Hungriest",
   "power.xyloniaorigins.increased_exhaustion.description": "You have a bigger appetite, your hunger are approximatly two times more than a human",
 
-  "power.xyloniaorigins.max_mana.name": "Max mana",
-  "power.xyloniaorigins.max_mana.description": "You have a 2x more mana that basic human",
+  "power.xyloniaorigins.max_mana.name": "Arcane master",
+  "power.xyloniaorigins.max_mana.description": "You have a two times more mana than a basic human",
 
   "power.xyloniaorigins.min_mana.name": "Dumb",
   "power.xyloniaorigins.min_mana.description": "You are the dumbest species out there, your mana is two times less than a human",
   
   "power.xyloniaorigins.reset_scale.name": " ",
-  "power.xyloniaorigins.reset_scale.description": " "
+  "power.xyloniaorigins.reset_scale.description": " ",
+
+  "power.xyloniaorigins.slow.name": "Short legs",
+  "power.xyloniaorigins.slow.description": "Your specie have short legs so they walk slower"
 }

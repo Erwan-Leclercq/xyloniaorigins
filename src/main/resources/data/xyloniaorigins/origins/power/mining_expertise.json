@@ -1,11 +1,15 @@
 {
-    "type": "origins:modify_break_speed",
-    "block_condition": {
-        "type": "origins:block",
-        "block": "#minecraft:mineable/pickaxe"
-    },
-    "modifier": {
-        "operation": "multiply_base",
-        "value": 0.5
-    }
+    "type": "origins:action_on_callback",
+    "entity_action_gained": [
+        {
+            "type": "origins:execute_command",
+            "command": "attribute @p minecraft:player.block_break_speed base set 1.5"
+        }
+    ],
+        "entity_action_lost": [
+        {
+            "type": "origins:execute_command",
+            "command": "attribute @p minecraft:player.block_break_speed base set 1"
+        }
+    ]
 }
