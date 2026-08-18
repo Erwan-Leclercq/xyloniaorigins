@@ -1,0 +1,9 @@
+{
+  "type": "origins:action_on_callback",
+  "entity_action_gained": [
+    {
+      "type": "origins:execute_command",
+      "command": "attribute @p minecraft:generic.attack_damage base set 2"
+    }
+  ]
+}

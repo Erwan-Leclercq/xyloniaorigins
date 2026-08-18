@@ -3,7 +3,7 @@
   "origin.xyloniaorigins.elf.description": "The elf are the species that was the first to found magic. And they are extremly respectfull of the nature, this is why they are all vegetarian",
 
   "origin.xyloniaorigins.goliath.name": "Goliath",
-  "origin.xyloniaorigins.goliath.description": "The goliath are a specie that is not famous for their knowledge in the arcane. Instead they develop the greatest strenght of all the species that live in this world.",
+  "origin.xyloniaorigins.goliath.description": "The goliath are a specie that is not famous for their knowledge in the arcane. Instead they had developed the greatest strenght of all the species that live in this world. This strengh need a lot of energy that they produce by eating exclusly meat",
 
   "origin.xyloniaorigins.dwarf.name": "Dwarf",
   "origin.xyloniaorigins.dwarf.description": "They are small and strong and love rocks",
@@ -14,8 +14,8 @@
   "power.xyloniaorigins.tall.name": "Tall",
   "power.xyloniaorigins.tall.description": "This species is tall",
   
-  "power.xyloniaorigins.taller.name": "Taller",
-  "power.xyloniaorigins.taller.description": "This species is taller",
+  "power.xyloniaorigins.giant.name": "Giant",
+  "power.xyloniaorigins.giant.description": "This species is Giant, they height are 3 block so 1 meter more than a regular human",
 
   "power.xyloniaorigins.small.name": "Small",
   "power.xyloniaorigins.small.description": "This species is small",
@@ -29,8 +29,8 @@
   "power.xyloniaorigins.mining_expertise.name": "Mining expertise",
   "power.xyloniaorigins.mining_expertise.description": "You're knowledge in mining let you mine faster",
   
-  "power.xyloniaorigins.stronger.name": "Stronger",
-  "power.xyloniaorigins.stronger.description": "You're stronger",
+  "power.xyloniaorigins.true_strength.name": "True strength",
+  "power.xyloniaorigins.true_strength.description": "You are two times stronger than any other species in closed combat",
 
   "power.xyloniaorigins.agility_jump.name": "Jump higher",
   "power.xyloniaorigins.agility_jump.description": "You're species jump higher",
@@ -39,19 +39,19 @@
   "power.xyloniaorigins.agility_speed.description": "You're species run faster",
 
   "power.xyloniaorigins.extra_health.name": "More health",
-  "power.xyloniaorigins.extra_health.description": "You're species have more health",
+  "power.xyloniaorigins.extra_health.description": "Your specie have 4 more health hearth than a human",
 
   "power.xyloniaorigins.less_health.name": "Less health",
   "power.xyloniaorigins.less_health.description": "You're species have less health",
   
-  "power.xyloniaorigins.increased_exhaustion.name": "Hunger",
-  "power.xyloniaorigins.increased_exhaustion.description": "You have a bigger appetite",
+  "power.xyloniaorigins.increased_exhaustion.name": "Hungriest",
+  "power.xyloniaorigins.increased_exhaustion.description": "You have a bigger appetite, your hunger are approximatly two times more than a human",
 
   "power.xyloniaorigins.max_mana.name": "Max mana",
   "power.xyloniaorigins.max_mana.description": "You have a 2x more mana that basic human",
 
-  "power.xyloniaorigins.min_mana.name": "Min mana",
-  "power.xyloniaorigins.min_mana.description": "You have a 2x less mana that basic human",
+  "power.xyloniaorigins.min_mana.name": "Dumb",
+  "power.xyloniaorigins.min_mana.description": "You are the dumbest species out there, your mana is two times less than a human",
   
   "power.xyloniaorigins.reset_scale.name": " ",
   "power.xyloniaorigins.reset_scale.description": " "

@@ -3,6 +3,6 @@
     "modifier": {
         "name": "Increased exhaustion",
         "operation": "multiply_base",
-        "value": 2.5
+        "value": 3
     }
 }

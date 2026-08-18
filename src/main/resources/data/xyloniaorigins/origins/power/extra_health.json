@@ -9,5 +9,11 @@
             "type": "origins:execute_command",
             "command": "effect give @p minecraft:instant_health 1 99"
         }
+    ],
+    "entity_action_lost": [
+        {
+            "type": "origins:execute_command",
+            "command": "attribute @p generic.max_health base set 20"
+        }
     ]
 }

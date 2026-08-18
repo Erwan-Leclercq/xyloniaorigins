@@ -1,11 +1,12 @@
 {
   "replace": false,
   "values": [
-    "xyloniaorigins:taller",
-    "xyloniaorigins:stronger",
+    "xyloniaorigins:giant",
+    "xyloniaorigins:true_strength",
     "xyloniaorigins:extra_health",
     "xyloniaorigins:increased_exhaustion",
     "xyloniaorigins:min_mana",
+    "origins:carnivore",
     "xyloniaorigins:reset_scale"
   ]
 }

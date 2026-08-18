@@ -1,6 +1,7 @@
 {
-  "replace": false,
+  "replace": true,
   "values": [
+    "origins:human",
     "xyloniaorigins:elf",
     "xyloniaorigins:goliath",
     "xyloniaorigins:dwarf",
