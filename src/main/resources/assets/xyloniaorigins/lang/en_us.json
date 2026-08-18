@@ -1,58 +1,58 @@
 {
-  "origin.basicorigins.elf.name": "Elf",
-  "origin.basicorigins.elf.description": "Species with long ears",
+  "origin.xyloniaorigins.elf.name": "Elf",
+  "origin.xyloniaorigins.elf.description": "Species with long ears",
 
-  "origin.basicorigins.goliath.name": "Goliath",
-  "origin.basicorigins.goliath.description": "They are tall",
+  "origin.xyloniaorigins.goliath.name": "Goliath",
+  "origin.xyloniaorigins.goliath.description": "They are tall",
 
-  "origin.basicorigins.dwarf.name": "Dwarf",
-  "origin.basicorigins.dwarf.description": "They are small and strong and love rocks",
+  "origin.xyloniaorigins.dwarf.name": "Dwarf",
+  "origin.xyloniaorigins.dwarf.description": "They are small and strong and love rocks",
   
-  "origin.basicorigins.goblin.name": "Goblin",
-  "origin.basicorigins.goblin.description": "Small and vicious",
+  "origin.xyloniaorigins.goblin.name": "Goblin",
+  "origin.xyloniaorigins.goblin.description": "Small and vicious",
 
-  "power.basicorigins.tall.name": "Tall",
-  "power.basicorigins.tall.description": "This species is tall",
+  "power.xyloniaorigins.tall.name": "Tall",
+  "power.xyloniaorigins.tall.description": "This species is tall",
   
-  "power.basicorigins.taller.name": "Taller",
-  "power.basicorigins.taller.description": "This species is taller",
+  "power.xyloniaorigins.taller.name": "Taller",
+  "power.xyloniaorigins.taller.description": "This species is taller",
 
-  "power.basicorigins.small.name": "Small",
-  "power.basicorigins.small.description": "This species is small",
+  "power.xyloniaorigins.small.name": "Small",
+  "power.xyloniaorigins.small.description": "This species is small",
   
-  "power.basicorigins.smaller.name": "Smaller",
-  "power.basicorigins.smaller.description": "This species is smaller",
+  "power.xyloniaorigins.smaller.name": "Smaller",
+  "power.xyloniaorigins.smaller.description": "This species is smaller",
 
-  "power.basicorigins.projectile_upgrade.name": "Powerfull bows",
-  "power.basicorigins.projectile_upgrade.description": "The damage of distance weapon are increased",
+  "power.xyloniaorigins.projectile_upgrade.name": "Powerfull bows",
+  "power.xyloniaorigins.projectile_upgrade.description": "The damage of distance weapon are increased",
   
-  "power.basicorigins.mining_expertise.name": "Mining expertise",
-  "power.basicorigins.mining_expertise.description": "You're knowledge in mining let you mine faster",
+  "power.xyloniaorigins.mining_expertise.name": "Mining expertise",
+  "power.xyloniaorigins.mining_expertise.description": "You're knowledge in mining let you mine faster",
   
-  "power.basicorigins.stronger.name": "Stronger",
-  "power.basicorigins.stronger.description": "You're stronger",
+  "power.xyloniaorigins.stronger.name": "Stronger",
+  "power.xyloniaorigins.stronger.description": "You're stronger",
 
-  "power.basicorigins.agility_jump.name": "Jump higher",
-  "power.basicorigins.agility_jump.description": "You're species jump higher",
+  "power.xyloniaorigins.agility_jump.name": "Jump higher",
+  "power.xyloniaorigins.agility_jump.description": "You're species jump higher",
 
-  "power.basicorigins.agility_speed.name": "Run faster",
-  "power.basicorigins.agility_speed.description": "You're species run faster",
+  "power.xyloniaorigins.agility_speed.name": "Run faster",
+  "power.xyloniaorigins.agility_speed.description": "You're species run faster",
 
-  "power.basicorigins.extra_health.name": "More health",
-  "power.basicorigins.extra_health.description": "You're species have more health",
+  "power.xyloniaorigins.extra_health.name": "More health",
+  "power.xyloniaorigins.extra_health.description": "You're species have more health",
 
-  "power.basicorigins.less_health.name": "Less health",
-  "power.basicorigins.less_health.description": "You're species have less health",
+  "power.xyloniaorigins.less_health.name": "Less health",
+  "power.xyloniaorigins.less_health.description": "You're species have less health",
   
-  "power.basicorigins.increased_exhaustion.name": "Hunger",
-  "power.basicorigins.increased_exhaustion.description": "You have a bigger appetite",
+  "power.xyloniaorigins.increased_exhaustion.name": "Hunger",
+  "power.xyloniaorigins.increased_exhaustion.description": "You have a bigger appetite",
 
-  "power.basicorigins.max_mana.name": "Max mana",
-  "power.basicorigins.max_mana.description": "You have a 2x more mana that basic human",
+  "power.xyloniaorigins.max_mana.name": "Max mana",
+  "power.xyloniaorigins.max_mana.description": "You have a 2x more mana that basic human",
 
-  "power.basicorigins.min_mana.name": "Min mana",
-  "power.basicorigins.min_mana.description": "You have a 2x less mana that basic human",
+  "power.xyloniaorigins.min_mana.name": "Min mana",
+  "power.xyloniaorigins.min_mana.description": "You have a 2x less mana that basic human",
   
-  "power.basicorigins.reset_scale.name": " ",
-  "power.basicorigins.reset_scale.description": " "
+  "power.xyloniaorigins.reset_scale.name": " ",
+  "power.xyloniaorigins.reset_scale.description": " "
 }

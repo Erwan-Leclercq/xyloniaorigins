@@ -12,6 +12,6 @@ public class xyloniaorigins {
     public static final Logger LOGGER = LogUtils.getLogger();
     
     public xyloniaorigins(IEventBus modEventBus) {
-        LOGGER.info("Basicorigins initializing");
+        LOGGER.info("xyloniaorigins initializing");
     }
 }

@@ -1,9 +1,9 @@
 {
   "replace": false,
   "values": [
-    "basicorigins:tall",
-    "basicorigins:projectile_upgrade",
-    "basicorigins:max_mana",
-    "basicorigins:reset_scale"
+    "xyloniaorigins:tall",
+    "xyloniaorigins:projectile_upgrade",
+    "xyloniaorigins:max_mana",
+    "xyloniaorigins:reset_scale"
   ]
 }

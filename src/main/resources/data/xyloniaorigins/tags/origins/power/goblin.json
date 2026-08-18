@@ -1,10 +1,10 @@
 {
   "replace": false,
   "values": [
-    "basicorigins:smaller",
-    "basicorigins:less_health",
-    "basicorigins:agility_speed",
-    "basicorigins:agility_jump",
-    "basicorigins:reset_scale"
+    "xyloniaorigins:smaller",
+    "xyloniaorigins:less_health",
+    "xyloniaorigins:agility_speed",
+    "xyloniaorigins:agility_jump",
+    "xyloniaorigins:reset_scale"
   ]
 }

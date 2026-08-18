@@ -1,9 +1,9 @@
 {
   "replace": false,
   "values": [
-    "basicorigins:small",
-    "basicorigins:mining_expertise",
-    "basicorigins:reset_scale"
+    "xyloniaorigins:small",
+    "xyloniaorigins:mining_expertise",
+    "xyloniaorigins:reset_scale"
 
   ]
 }

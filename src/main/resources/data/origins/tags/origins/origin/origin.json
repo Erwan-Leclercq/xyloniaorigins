@@ -1,9 +1,9 @@
 {
   "replace": false,
   "values": [
-    "basicorigins:elf",
-    "basicorigins:goliath",
-    "basicorigins:dwarf",
-    "basicorigins:goblin"
+    "xyloniaorigins:elf",
+    "xyloniaorigins:goliath",
+    "xyloniaorigins:dwarf",
+    "xyloniaorigins:goblin"
   ]
 }

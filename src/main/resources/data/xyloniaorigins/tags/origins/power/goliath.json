@@ -1,11 +1,11 @@
 {
   "replace": false,
   "values": [
-    "basicorigins:taller",
-    "basicorigins:stronger",
-    "basicorigins:extra_health",
-    "basicorigins:increased_exhaustion",
-    "basicorigins:min_mana",
-    "basicorigins:reset_scale"
+    "xyloniaorigins:taller",
+    "xyloniaorigins:stronger",
+    "xyloniaorigins:extra_health",
+    "xyloniaorigins:increased_exhaustion",
+    "xyloniaorigins:min_mana",
+    "xyloniaorigins:reset_scale"
   ]
 }
