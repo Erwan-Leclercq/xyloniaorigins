@@ -1,9 +1,9 @@
 {
   "powers": [
-    "#xyloniaorigins:goblin"
+    "#xyloniaorigins:gnome"
   ],
   "icon": {
-    "id": "minecraft:stick"
+    "id": "minecraft:brown_mushroom"
   },
   "order": 4,
   "impact": 2
