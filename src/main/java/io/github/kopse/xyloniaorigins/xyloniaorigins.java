@@ -1,4 +1,4 @@
-package io.github.kopse;
+package io.github.kopse.xyloniaorigins;
 
 import org.slf4j.Logger;
 import com.mojang.logging.LogUtils;
