@@ -3,13 +3,19 @@
   "entity_action_gained": [
     {
       "type": "origins:execute_command",
-      "command": "attribute @p minecraft:generic.movement_speed base set 0.2"
+      "command": "effect give @p speed infinite 6 true"
+    }
+  ],
+  "entity_action_respawned": [
+    {
+      "type": "origins:execute_command",
+      "command": "effect give @p speed infinite 6 true"
     }
   ],
   "entity_action_lost": [
     {
       "type": "origins:execute_command",
-      "command": "attribute @p minecraft:generic.movement_speed base set 0.1"
+      "command": "effect clear @p"
     }
   ]
 }

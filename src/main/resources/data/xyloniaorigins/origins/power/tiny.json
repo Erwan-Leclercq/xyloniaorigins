@@ -4,6 +4,10 @@
         {
             "type": "origins:execute_command",
             "command": "scale set pehkui:base 0.5 @p"
+        },
+        {
+            "type": "origins:execute_command",
+            "command": "scale set pehkui:step_height 2 @p"
         }
     ]
 }
