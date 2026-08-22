@@ -4,12 +4,20 @@
     {
       "type": "origins:execute_command",
       "command": "attribute @p minecraft:generic.jump_strength base set 0.6"
+    },
+    {
+      "type": "origins:execute_command",
+      "command": "attribute @p minecraft:generic.safe_fall_distance base set 4"
     }
   ],
   "entity_action_lost": [
     {
       "type": "origins:execute_command",
       "command": "attribute @p minecraft:generic.jump_strength base set 0.42"
+    },
+    {
+      "type": "origins:execute_command",
+      "command": "attribute @p minecraft:generic.safe_fall_distance base set 3"
     }
   ]
 }
